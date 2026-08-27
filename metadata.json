@@ -1,0 +1,6 @@
+{
+  "name": "Thrivemind Botanicals",
+  "description": "Naturally You - Botanical hair, skin, and wellbeing care for menopausal women, handcrafted in Australia with pure plant-based ingredients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
